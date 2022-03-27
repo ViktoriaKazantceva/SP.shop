@@ -1,6 +1,7 @@
 # SP.shop
 
-Данный сайт является demo тестового задания.
+Данный сайт является demo тестового задания:
+https://viktoriakazantceva.github.io/SP.shop/
 
 Цель задания - адаптивная верстка страницы сайта по макету:
 https://www.figma.com/file/SrgWTbPdDo6aki0wJ3gUf2/HTML-Test?node-id=0%3A1
